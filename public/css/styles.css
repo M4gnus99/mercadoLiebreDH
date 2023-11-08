@@ -273,11 +273,11 @@ footer{
     .contenedor-items-footer {
         display: flex;
         flex-direction: column; /* Cambia la dirección a columna */
-        align-items: center; /* Opcional: alinea al centro si es necesario */
+        align-items: center; 
     }
 
     .items-footer {
-        text-align: center; /* Opcional: centra el contenido en la columna */
+        text-align: center; 
         margin-top: 1.5rem;
         padding-left: 10px;
         padding-right: 10px;
